@@ -36,9 +36,8 @@ Known softwares
   <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/spigot.png" alt="Spigot" width="24" height="24"/>  Spigot
   <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/bukkit.jfif" alt="Bukkit" width="24" height="24"/>  Bukkit
 <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/bungeecord.png" alt="BungeeCord" width="24" height="24"/>  BungeeCord
-<br><br>- SQLite/MySQL/Redis/Flatfile/MongoDB
-<br>- NMS/Packets/Stream/Lambda
-<br><br>And many others! I have 6 years of minecraft codding experience, currently hireable.
+<br><br>- SQLite/MySQL/Redis
+<br><br>I have 2 years of experience in Bukkit development.
 </details>
 
 ---
@@ -50,7 +49,7 @@ Known softwares
 <p align="center">
   <img width="24" src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/discord.svg" alt="Discord">
   <br>  
-    <i>GeneX#0001</i>
+    <i>Gabriel Bruck#0001</i>
   <br><br>
     <a href="https://twitter.com/fromgaabriel" alt="Twitter"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/twitter.svg"></a>
     <a href="mailto:gabrielcorreabruck@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
