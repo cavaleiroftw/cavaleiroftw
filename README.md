@@ -55,4 +55,4 @@ Known softwares
     <a href="mailto:gabrielcorreabruck@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.jpg" alt="footer">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.indianmesh.com%2Fimages%2Fbanner%2Fjava.jpg&f=1&nofb=1" alt="footer">
