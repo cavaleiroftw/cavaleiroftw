@@ -1,4 +1,4 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fnixcelsoft.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fwebsite-development-banner.png%3Fssl%3D1&f=1&nofb=1" alt="header">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmobatia.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fjava.jpg&f=1&nofb=1" alt="header">
 
 ### About me
 
