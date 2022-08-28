@@ -17,7 +17,7 @@
 
 ### Recent Projects
 
-- [Arcanth](https://hywer.net) - A minecraft minigames network
+- [Hywer](https://hywer.net) - A minecraft minigames network
 ---
 
 Known softwares
