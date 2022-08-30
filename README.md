@@ -9,7 +9,8 @@
 <details>
   <summary>Others details about me</summary>
   <br>
-  - I don't have a course, I do this just for a hobby.
+  - Designer in spare time.
+  - Composer.
   <br>
 </details>
 
