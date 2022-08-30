@@ -11,9 +11,7 @@
   <br>
   - Designer in spare time.
   <br>
-  <br>
     - Composer.
-  <br>
 </details>
 
 ---
@@ -39,7 +37,7 @@ Known softwares
   <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/spigot.png" alt="Spigot" width="24" height="24"/>  Spigot
   <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/bukkit.jfif" alt="Bukkit" width="24" height="24"/>  Bukkit
 <br><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/minecraft/bungeecord.png" alt="BungeeCord" width="24" height="24"/>  BungeeCord
-<br><br>- SQLite/MySQL/Redis
+<br><br>- MySQL, SQLLite and I'm studying Redis.
 <br><br>I have 2 years of experience in Java development.
 </details>
 
