@@ -10,7 +10,9 @@
   <summary>Others details about me</summary>
   <br>
   - Designer in spare time.
-  - Composer.
+  <br>
+  <br>
+    - Composer.
   <br>
 </details>
 
