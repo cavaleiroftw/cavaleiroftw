@@ -18,7 +18,8 @@
 
 ### Recent Projects
 
-- [Hywer](https://hywer.net) - A minecraft minigames network
+- [Hywer](https://hywer.net) - A minecraft minigames network.
+- [Wave](https://www.wavemc.com.br) - A minecraft pvp network.
 ---
 
 Known softwares
@@ -50,7 +51,7 @@ Known softwares
 <p align="center">
   <img width="24" src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/discord.svg" alt="Discord">
   <br>  
-    <i>Gabriel Bruck#0001</i>
+    <i>Gabriel Bruck#2000</i>
   <br><br>
     <a href="https://twitter.com/fromgaabriel" alt="Twitter"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/twitter.svg"></a>
     <a href="mailto:gabrielcorreabruck@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
