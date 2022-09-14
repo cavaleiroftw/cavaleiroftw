@@ -18,8 +18,10 @@
 
 ### Recent Projects
 
-- [Hywer](https://hywer.net) - A minecraft minigames network.
+- [Zenix](https://www.zenix.cc) - A minecraft pvp network.
+- [Zarpium](https://www.zarpium.com) - A minecraft pvp network.
 - [Wave](https://www.wavemc.com.br) - A minecraft pvp network.
+- [Hywer](https://hywer.net) - A minecraft minigames network.
 ---
 
 Known softwares
